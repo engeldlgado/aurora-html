@@ -60,4 +60,4 @@ social.forEach((item) =>
   item.addEventListener('mouseover', activeLinkSocial));
 
 social.forEach((item) =>
-item.addEventListener('mouseout', inactiveLinkSocial));
+  item.addEventListener('mouseout', inactiveLinkSocial));
